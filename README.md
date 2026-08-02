@@ -11,7 +11,7 @@
 
 ## Gameplay
 
-![Gameplay](Assets/Docs/Images/gameplay.png)
+![Gameplay](/Assets/Docs/Images/gameplay.png)
 
 ---
 
