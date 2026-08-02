@@ -11,19 +11,19 @@
 
 ## Gameplay
 
-![Gameplay](Assets/Docs/images/gameplay.png)
+![Gameplay](Assets/Docs/Images/gameplay.png)
 
 ---
 
 ## Hierarchy
 
-![Hierarchy](Assets/Docs/images/Hierarchy.png)
+![Hierarchy](Assets/Docs/Images/Hierarchy.png)
 
 ---
 
 ## GameEntryPoint
 
-![GameEntryPoint](Assets/Docs/images/GameEntryPoint.png)
+![GameEntryPoint](Assets/Docs/Images/GameEntryPoint.png)
 
 ---
 
