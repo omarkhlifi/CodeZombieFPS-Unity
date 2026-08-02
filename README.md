@@ -17,13 +17,13 @@
 
 ## Hierarchy
 
-![Hierarchy](Assets/Docs/Images/Hierarchy.png)
+![Hierarchy](/Assets/Docs/Images/Hierarchy.png)
 
 ---
 
 ## GameEntryPoint
 
-![GameEntryPoint](Assets/Docs/Images/GameEntryPoint.png)
+![GameEntryPoint](/Assets/Docs/Images/GameEntryPoint.png)
 
 ---
 
